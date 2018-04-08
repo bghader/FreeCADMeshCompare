@@ -1,0 +1,1 @@
+FreeCAD.addImportType("STL Mesh (*.stl *.ast)", "Mesh")
